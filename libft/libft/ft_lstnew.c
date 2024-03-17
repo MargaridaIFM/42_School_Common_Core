@@ -11,7 +11,7 @@ t_list	*ft_lstnew(void *content)
 	new_node->next = NULL;
 	return (new_node);
 }
-int main(void)
+/*int main(void)
 {
 	char *cont1 = "Hello";
 	char *cont2 = "Darling";
@@ -35,4 +35,4 @@ int main(void)
 	free(node3);
 	printf("\n");
 
-}
+}*/
