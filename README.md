@@ -1,6 +1,6 @@
 <div align = "center">
 
-  ![Img 42 Lisbon](https://www.i-tecnico.pt/wp-content/uploads/2020/09/42-Lisboa.png)
+  <img src = "https://www.vangproperties.com/media/3830/42lisboa.jpg?preset=imageWithTextInsideText" alt = "42 lisbon img">
 </div>
 
 ## About
@@ -13,8 +13,10 @@ Coomon core start date: 08/08/2024.
 <div align= "center">
 
 | Circle | Project | Language | Description | Bonus |Score | Date |
-| :--- | :--- | :---: | :--- | :--- |:--- |:--- |
-| 00 | [Libf](https://github.com/MargaridaIFM/Libft) | C | My own libary with a set of standard functions remade by me | | | |
-| 01 | [ft_printf](https://github.com/MargaridaIFM/Printf) | C | The aim of the project is to create my own printf function considering the behavior of the original function | | |
+| :---: | :--- | :---: | :--- | :---: |:--- |:--- |
+| 00 | [Libf](https://github.com/MargaridaIFM/Libft) | C | Create my own library with a set of standard functions remade by me. | YES | | |
+| 01 | [ft_printf](https://github.com/MargaridaIFM/Printf) | C | The aim of the project is to create my own printf function considering the behavior of the original function. | NO | | |
+| 01 | [Born2beRoot](https://github.com/MargaridaIFM/Born2beRoot) | Shell | This project aims to introduce the wonderful world of virtualization. I will create my first machine in VirtualBox or UTM under specific instructions.| YES | | |
+| 01 | [get_next_line](https://github.com/MargaridaIFM/get_next_line) | C | | YES  | |
 
 </div>
