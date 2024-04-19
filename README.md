@@ -14,8 +14,8 @@ Coomon core start date: 08/08/2024.
 
 | Circle | Project | Language | Description | Bonus |Score | Date |
 | :---: | :--- | :---: | :--- | :---: |:--- |:--- |
-| 00 | [Libf](https://github.com/MargaridaIFM/Libft) | C | Create my own library with a set of standard functions remade by me. | ✅ | 125 | 18-04-2023 |
-| 01 | [ft_printf](https://github.com/MargaridaIFM/Printf) | C | The aim of the project is to create my own printf function considering the behavior of the original function. | ❌  | | |
+| 00 | [Libf](https://github.com/MargaridaIFM/Libft) | C | Create my own library with a set of standard functions remade by me. | ✅ | 125 | 18/04/2024 |
+| 01 | [ft_printf](https://github.com/MargaridaIFM/Printf) | C | The aim of the project is to create my own printf function considering the behavior of the original function. | ❌  | 100 | 19/04/2024 |
 | 01 | [Born2beRoot](https://github.com/MargaridaIFM/Born2beRoot) | Shell | This project aims to introduce the wonderful world of virtualization. I will create my first machine in VirtualBox or UTM under specific instructions.| ✅ | | |
 | 01 | [get_next_line](https://github.com/MargaridaIFM/get_next_line) | C | This project is about programming a function that returns a line read from a file descriptor.| ✅ |  |
 
