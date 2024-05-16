@@ -13,10 +13,10 @@ Coomon core start date: 08/08/2024.
 <div align= "center">
 
 | Circle | Project | Language | Description | Score | Bonus | Date |
-| :---: | :--- | :---: | :--- | :---: |:--- |:--- |
+| :---: | :--- | :---: | :--- | :---: |:---:|:--- |
 | 00 | [Libf](https://github.com/MargaridaIFM/Libft) | C | Create my own library with a set of standard functions remade by me. | 125 | ✅| 18/04/2024 |
-| 01 | [ft_printf](https://github.com/MargaridaIFM/Printf) | C | The aim of the project is to create my own printf function considering the behavior of the original function. | 100  | ❌ | 19/04/2024 |
-| 01 | [Born2beRoot](https://github.com/MargaridaIFM/Born2beRoot) | Shell | This project aims to introduce the wonderful world of virtualization. I will create my first machine in VirtualBox or UTM under specific instructions.| 106 | ✅ 2 points | 07/05/2024 |
+| 01 | [ft_printf](https://github.com/MargaridaIFM/Printf) | C | The aim of the project is to create my own printf function considering the behavior of the original function. | 100  |  | 19/04/2024 |
+| 01 | [Born2beRoot](https://github.com/MargaridaIFM/Born2beRoot) | Shell | This project aims to introduce the wonderful world of virtualization. I will create my first machine in VirtualBox or UTM under specific instructions.| 106 | ✅ 2 pts | 07/05/2024 |
 | 01 | [get_next_line](https://github.com/MargaridaIFM/get_next_line) | C | This project is about programming a function that returns a line read from a file descriptor.| | ✅ | |
 | 02 | [Push_swap](https://github.com/MargaridaIFM/Push_swap) | C | The aim of this project is develop a sorting algorithm to organize a stack. We only can use 2 stacks and cannot duplicate the original, and also we onlu can use predifined operations. The aim of bonus part is create on checker.| | | |
 
