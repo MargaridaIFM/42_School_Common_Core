@@ -6,7 +6,7 @@
 ## About
 This repository contains the projects developed by me during the common core of the programming course at Escola 42 Lisboa.
 
-Coomon core start date: 08/08/2024.
+Common core start date: 08/04/2024.
 
 ## Projects
 
