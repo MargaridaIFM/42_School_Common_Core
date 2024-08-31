@@ -19,9 +19,7 @@ Common core start date: 08/04/2024.
 | 01 | [Born2beRoot](https://github.com/MargaridaIFM/Born2beRoot) | Shell | This project aims to introduce the wonderful world of virtualization. I will create my first machine in VirtualBox or UTM under specific instructions.| 106 | ✅ 2 pts | 07/05/2024 |
 | 01 | [get_next_line](https://github.com/MargaridaIFM/get_next_line) | C | This project is about programming a function that returns a line read from a file descriptor.|125 | ✅ | 16/05/2024 |
 | 02 | [Push_swap](https://github.com/MargaridaIFM/Push_swap) | C | The aim of this project is develop a sorting algorithm to organize a stack. We only can use 2 stacks and cannot duplicate the original, and also we onlu can use predifined operations. The aim of bonus part is create on checker.| 113 | ✅ | 27/06/2024|
-| 02 | [FdF](https://github.com/MargaridaIFM/FdF) | C | | | | |
-| 02 | [minitalk](https://github.com/MargaridaIFM/minitalk) | C | | | | |
+| 02 | [minitalk](https://github.com/MargaridaIFM/minitalk) | C | Minitalk is a small data exchange program that leverages UNIX signals to facilitate communication between two processes: a client and a server. The aim is to send a string from the client to the server, and displays it in the terminal.| 115| ✅ | 23/08/2024 |
 | 02 | [so_long]() | C | | | | |
-
 
 </div>
